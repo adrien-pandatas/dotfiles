@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adrien.omont@pandatas.com
+	name = adrien omont
